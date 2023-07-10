@@ -17,13 +17,13 @@
 - 👯 I’m looking to collaborate on real products while working for an organisation.<br>
 - 💬 Ask me about Javascript , Frontend, or MERN Stack i would love to help.<br>
 -⚡ Self and quick learner, self-motivated, and social.<br>
-- 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/shubham-singh-86664094/">LinkedIn</a> or can put a <a href="mailto:ishubhamsingh93@gmail.com">mail</a>
+- 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/shubham-singh-3b2621258/">LinkedIn</a> or can put a <a href="mailto:shubhammddp@gmail.com">mail</a>
 <br>
 <br>
 
 <p>
     <strong>
-        Here is the link of my personal portfolio https://shubhampar.github.io/.
+        Here is the link of my personal portfolio https://shubh9713.github.io/.
     </strong>
 </p>
 
