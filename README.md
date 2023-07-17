@@ -8,7 +8,7 @@
       alt="Typing SVG" /></a>
 </div>
 <div align="center">
-  <img src="https://drive.google.com/file/d/1THCd17Qy8WumW9bj-doWmdWrkJV4Z730/view?usp=sharing"
+  <img src="https://drive.google.com/file/d/1THCd17Qy8WumW9bj-doWmdWrkJV4Z730/view"
     alt="dash" />
 </div>
 <h2 align='center'> Connect with me ⬇</h2>
